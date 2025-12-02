@@ -1,4 +1,4 @@
-# Analisis Kluster Pasien HCV K-Means VS K-Means++  
+# Analisis Cluster Pasien HCV K-Means VS K-Means++  
 
 Analisis clustering data HCV ini menggunakan dua algoritma K-Means. Proyek ini berfokus pada perbandingan performa antara K-Means (inisialisasi random) dan K-Means++ dalam mengelompokkan pasien berdasarkan parameter klinis.  
 
