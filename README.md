@@ -21,8 +21,14 @@ Analisis clustering data HCV ini menggunakan dua algoritma K-Means. Proyek ini b
 - K-means dengan random initialization  
 - K-Means++ dengan smart initialization  
 5. Evaluasi: MSE (Mean Squared Error)  
-6. Visualisasi: PCA 
+6. Visualisasi: PCA  
+
+# Fitur Utama
+- Perbandingan lengkap dua metode K-Means dalam satu eksekusi
+- Validasi ganda menggunakan Elbow method dan Silhouette Score
+- Output terstruktur dengan tabel dan statistik
+- PCA yang terpisah untuk setiap metode  
 
 # Catatan  
-**Kode ini digunakan untuk pembelajaran**
+**Kode ini dibuat hanya untuk pembelajaran**
 
