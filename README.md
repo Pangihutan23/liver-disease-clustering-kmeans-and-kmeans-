@@ -29,6 +29,47 @@ Analisis clustering data HCV ini menggunakan dua algoritma K-Means. Proyek ini b
 - Output terstruktur dengan tabel dan statistik
 - PCA yang terpisah untuk setiap metode  
 
+
+## Dataset  
+!["dataset"]("Data set.png")  
+!["dataset"]("Dataset2.png")  
+
+Dataset terdiri dari 14 kolom dan 615 sampel, dengan beberapa tipe, yaitu integer, categorical, dan continous.  
+
+## Missing Value  
+!["missing value"]("Missing value.png")  
+
+Terdapat beberapa missing value yang terdapat pada dataset, pada kolom ALB terdapat 1 missing value, ALP terdapat 18 missing value, ALT terdapat 1 missing value, CHOL terdapat 10 missing value, dan PROT terdapat 1 missing value.  
+
+## Elbow Method dan Silhouette Score  
+### Elbow Method dan Silhouette Score K-Means  
+!["elbow dan silhouette"]("silhouette K-Means.png")  
+
+### Elbow Method dan Silhouette Score K-Means++  
+!["elbow dan silhouette"]("silhouette K-Means++.png")   
+
+
+## Hasil clustering  
+### Hasil cluster K-Means  
+!["hasil clustering"]("Hasil Cluster K-Means1.png")  
+!["Hasil clustering"]("Hasil Cluster K-Means2.png")  
+
+### Hasil Cluster K-Means++  
+!["hasil clustering"]("Hasil Cluster K-Means1.png")  
+!["Hasil clustering"]("Hasil Cluster K-Means2.png")   
+
+## Evaluasi  
+### MSE K-Means  
+!["MSE K-Means"]("MSE K-Means.png")  
+
+### MSE K-Means++  
+!["MSE K-Means++"]("MSE K-Means++.png")  
+
+
+## Link Dataset  
+https://archive.ics.uci.edu/dataset/571/hcv+data
+
+
 # Catatan  
 **Kode ini dibuat hanya untuk pembelajaran**
 
