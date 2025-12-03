@@ -46,7 +46,7 @@ Terdapat beberapa missing value yang terdapat pada dataset, pada kolom ALB terda
 ![elbow dan silhouette](silhouette%20K-Means.png)  
 
 ### Elbow Method dan Silhouette Score K-Means++  
-![elbow dan silhouette](silhouette%20K-Means++.png)   
+![elbow dan silhouette](Silhouette%20K-Means++.png)   
 
 
 ## Hasil clustering  
